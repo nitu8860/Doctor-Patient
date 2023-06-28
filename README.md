@@ -15,7 +15,7 @@ The Doctor-Patient System is a web application that facilitates the management o
 - Java
 - Spring Boot
 - MySQL
-- JavaScript
+  
 
 ## Installation
 
@@ -54,3 +54,5 @@ The Doctor-Patient System is a web application that facilitates the management o
 
 ## Screenshot
 ![Swagger UI - Google Chrome 28-06-2023 20_26_08](https://github.com/nitu8860/Doctor-Patient/assets/112774001/9b49a672-00e7-4740-ab6c-cd82a93bfb1a)
+![MySQL Workbench 28-06-2023 20_47_13](https://github.com/nitu8860/Doctor-Patient/assets/112774001/42756a7b-ca19-4ce1-8664-0b7f975caa3d)
+
