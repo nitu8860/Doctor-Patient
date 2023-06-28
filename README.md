@@ -15,7 +15,6 @@ The Doctor-Patient System is a web application that facilitates the management o
 - Java
 - Spring Boot
 - MySQL
-- HTML/CSS
 - JavaScript
 
 ## Installation
